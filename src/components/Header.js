@@ -5,7 +5,7 @@ const Header = () => {
   const [search, setSearch] = useState("");
 
   return (
-    <header className="bg-yellow-300 shadow-md py-4">
+    <header className="shadow-md py-4">
       <div className="container mx-auto flex items-center justify-between px-6">
         
         {/* 로고 */}
